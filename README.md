@@ -2,7 +2,7 @@
 # Agricultural GVA in India: A Time Series Analysis
 
 ## Overview
-This project examines the growth of India's agricultural sector using annual Gross Value Added (GVA) data for Agriculture, Forestry and Fishing from 1989–90 to 2025–26.
+This project examines the growth of India's agricultural sector using annual Gross Value Added (GVA) data for Agriculture, Forestry and Fishing from 1989-90 to 2025-26.
 
 The objective is to understand historical growth patterns and examine whether growth in one year is related to growth in the following year.
 
